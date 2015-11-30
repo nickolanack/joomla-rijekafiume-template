@@ -1,0 +1,270 @@
+.item_103 {
+	background-color: #FAEFCC;
+}
+
+.item_103 #wrapper:after {
+	display: none;
+}
+
+div#GLMap_RijekaFiume_1Container {
+	border-bottom: 1px solid;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+/* page setup to make map fit =====================================*/
+.item_103 #maincontent {
+	max-width: 100%;
+	width: 100%;
+	margin-top: 9.4em;
+}
+
+@media only screen and (max-width: 1304px) {
+	.item_103 #maincontent {
+		margin-top: 9.4em;
+	}
+}
+
+@media only screen and (max-width:957px) {
+	.item_103 #maincontent {
+		margin-top: 9.4em;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.item_103 #maincontent {
+		margin-top: 9.4em;
+	}
+}
+
+/* next and back buttons ======================================== */
+.EmapNav .WizardButtonContainer .submit {
+	content: "";
+	background-image:
+		url("/templates/shimatheme/images/media-images/submit-button.png");
+	position: absolute;
+	height: 91px;
+	right:-85px;
+	top:80px;
+	width: 77px;
+	background-color: transparent;
+	border:none;
+}
+
+.EmapNav .WizardButtonContainer .next {
+	content: "";
+	background-image:
+		url("/templates/shimatheme/images/media-images/next-button.png");
+	position: absolute;	
+	height: 91px;
+	right: -85px;
+	top: 80px;
+	width: 77px;
+	border: none;
+	background-color: transparent;
+}
+
+
+.EmapNav .WizardButtonContainer .back {
+	content: "";
+	background-image:
+		url("/templates/shimatheme/images/media-images/back-button.png");
+	position: absolute;
+	height:91px;
+	left: -85px;
+	top: 80px;
+	width: 77px;
+	background-color: transparent;
+	border:none;
+}
+
+.EmapNav .WizardButton span.btn-label {
+ 	display: none;
+}
+
+.geoliveSqueezeWindow {
+	padding-bottom: 0;
+}
+
+.EmapNav .cancel {
+	display: none;
+}
+
+.EmapNav .WizardButton>.buttonLabel {
+	display: none;
+}
+
+.TagCloudSelection {
+	margin-top: 25px;
+}
+
+/*general map styling ==================================== */
+.AttributesContainer .TextAttribute_Title {
+	color: #000000;
+}
+
+.geolive_window_page .control_icons>span {
+	background-color: white;
+}
+
+.geolive_window_title_content>span {
+	color: #000000;
+}
+
+.geolive_mediaMap_container>.geolive_inner {
+	border: none;
+}
+
+.infowindow_title {
+	background-image:
+		url("http://ict4ag.geolive.ca/templates/shimatheme/images/GEOLiveSmallCopy.png");
+	background-repeat: no-repeat;
+	margin-right: 12px;
+	padding-left: 39px;
+	padding-top: 10px;
+}
+
+.AttributesContainer {
+	margin-top: 4px;
+}
+
+.videoLink {
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.geolive_window_footer {
+	padding-bottom: 4px;
+	padding-right: 5px;
+}
+/* post box media buttons ================================== */
+.post-box .PopupTab span.noIcon.audio {
+	background-image:
+		url("/templates/shimatheme/images/media-images/media-music.png");
+	background-size: 32px auto;
+}
+
+.post-box .PopupTab span.noIcon.document {
+	display: none;
+}
+
+.post-box .PopupTab span.noIcon.image {
+	background-image:
+		url("/templates/shimatheme/images/media-images/media-image.png");
+	background-size: 32px auto;
+}
+
+.post-box .PopupTab span.noIcon.video {
+	background-image:
+		url("/templates/shimatheme/images/media-images/media-video.png");
+	background-size: 32px auto;
+}
+
+
+.post-box .PopupTab img,div.PopupTab .noIcon {
+	border: none;
+}
+
+.post-box .PopupTab {
+	bottom: 0;
+	height: 95px;
+	position: absolute;
+}
+
+.post-box .AdvancedEditorContainer {
+	position: relative;
+	padding-bottom: 38px;
+}
+
+.post-box .PopupTab span.noIcon {
+	height: 32px;
+	width: 32px;
+}
+
+.post-box .PopupTab .tabs_container {
+	width: 200px;
+}
+
+.post-box .PopupTab .tabs {
+	width: 200px
+}
+
+.post-box .ToolbarBottom {
+	margin-top: 40px;
+	display: block;
+}
+
+.post-box .WizardButton {
+	background-color: #777777;
+	border: 1px solid black;
+	border-radius: 2px 2px 2px 2px;
+	cursor: pointer;
+	float: right;
+	list-style: none outside none;
+	margin-left: 2px;
+	overflow: hidden;
+	padding-bottom: 0;
+	padding-left: 0;
+	padding-top: 0;
+}
+
+span.t-btn.post {
+	background-color: white;
+}
+
+
+/*General Marker wizard styling ================================= */
+
+.media .PopupTab span.noIcon {
+	height: 75px;
+	width: 105px;
+}
+
+.media .PopupTab span.noIcon.audio {
+	background-image:
+		url("/templates/shimatheme/images/media-images/media-music.png");
+	background-size: 70px auto;
+}
+
+.media .PopupTab .document {
+	display: none;
+}
+
+.media .PopupTab span.noIcon.image {
+	background-image:
+		url("/templates/shimatheme/images/media-images/media-image.png");
+	background-size: 70px auto;
+}
+
+.media .PopupTab span.noIcon.video {
+	background-image:
+		url("/templates/shimatheme/images/media-images/media-video.png");
+	background-size: 70px auto;
+}
+
+.media .PopupTab span.noIcon.audio:hover {
+	background-image:
+		url("/templates/shimatheme/images/media-images/media-audio-black.png");
+	background-size: 70px auto;
+}
+
+.media .PopupTab span.noIcon.image:hover {
+	background-image:
+		url("/templates/shimatheme/images/media-images/media-image-black.png");
+	background-size: 70px auto;
+}
+
+.media .PopupTab span.noIcon.video:hover {
+	background-image:
+		url("/templates/shimatheme/images/media-images/media-video-black.png");
+	background-size: 70px auto;
+}
+
+.PopupTab img:hover, .PopupTab .noIcon:hover{
+	background-color: white;
+	box-shadow:0 0 0 transparent;
+	border-color:transparent;
+}
+
