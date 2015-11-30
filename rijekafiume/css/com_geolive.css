@@ -20,7 +20,7 @@ ul {
 	width: 100%;
 	margin-top: 9.4em;
 }
-
+a
 @media only screen and (max-width: 1304px) {
 	.item_103 #maincontent {
 		margin-top: 9.4em;
@@ -216,55 +216,4 @@ span.t-btn.post {
 
 
 /*General Marker wizard styling ================================= */
-
-.media .PopupTab span.noIcon {
-	height: 75px;
-	width: 105px;
-}
-
-.media .PopupTab span.noIcon.audio {
-	background-image:
-		url("/templates/rijekafiume/images/media-images/media-music.png");
-	background-size: 70px auto;
-}
-
-.media .PopupTab .document {
-	display: none;
-}
-
-.media .PopupTab span.noIcon.image {
-	background-image:
-		url("/templates/rijekafiume/images/media-images/media-image.png");
-	background-size: 70px auto;
-}
-
-.media .PopupTab span.noIcon.video {
-	background-image:
-		url("/templates/rijekafiume/images/media-images/media-video.png");
-	background-size: 70px auto;
-}
-
-.media .PopupTab span.noIcon.audio:hover {
-	background-image:
-		url("/templates/rijekafiume/images/media-images/media-audio-black.png");
-	background-size: 70px auto;
-}
-
-.media .PopupTab span.noIcon.image:hover {
-	background-image:
-		url("/templates/rijekafiume/images/media-images/media-image-black.png");
-	background-size: 70px auto;
-}
-
-.media .PopupTab span.noIcon.video:hover {
-	background-image:
-		url("/templates/rijekafiume/images/media-images/media-video-black.png");
-	background-size: 70px auto;
-}
-
-.PopupTab img:hover, .PopupTab .noIcon:hover{
-	background-color: white;
-	box-shadow:0 0 0 transparent;
-	border-color:transparent;
-}
 

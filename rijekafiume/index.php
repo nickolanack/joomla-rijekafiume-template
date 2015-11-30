@@ -85,7 +85,7 @@ JHTML::_('jquery.framework');
 
 <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements and feature detects -->
 <script src="/templates/rijekafiume/js/modernizr-2.5.3-min.js"></script>
-<script src="/templates/rijekafiume/js/map-height.js"></script>
+
 
 <?php 
 $component=JRequest::getVar('option','');
