@@ -112,7 +112,7 @@ dl.article-info > dd {
     position: absolute;
     z-index: -1;
     content: "";
-    background: url(/templates/shimatheme/images/backgrounds/image4.jpg);
+    background: url(/templates/rijekafiume/images/backgrounds/image4.jpg);
     opacity: .8;
     background-size:cover;
 }

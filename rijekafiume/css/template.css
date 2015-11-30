@@ -265,13 +265,13 @@ ul.hs_social_list li.socials span.icon {
 }
 
 ul.hs_social_list li.socials.facebook span.icon {
-	background-image: url("/templates/shimatheme/images/social/facebook-logo.png");
+	background-image: url("/templates/rijekafiume/images/social/facebook-logo.png");
 	background-size: 30px;
 	background-position: 0;
 }
 
 ul.hs_social_list li.socials.google span.icon {
-	background-image: url("/templates/shimatheme/images/social/google+.png");
+	background-image: url("/templates/rijekafiume/images/social/google+.png");
 	background-size: 30px;
 	background-position: 0;
 }
@@ -307,7 +307,7 @@ ul.hs_social_list li.socials.facebook span.name {
     position: absolute;
     z-index: -1;
     content: "";
-    background: url(/templates/shimatheme/images/backgrounds/water-view-black-white.jpg);
+    background: url(/templates/rijekafiume/images/backgrounds/water-view-black-white.jpg);
     background-size:cover;
     background-position: bottom;
 }

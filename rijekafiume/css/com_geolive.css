@@ -43,7 +43,7 @@ ul {
 .EmapNav .WizardButtonContainer .submit {
 	content: "";
 	background-image:
-		url("/templates/shimatheme/images/media-images/submit-button.png");
+		url("/templates/rijekafiume/images/media-images/submit-button.png");
 	position: absolute;
 	height: 91px;
 	right:-85px;
@@ -56,7 +56,7 @@ ul {
 .EmapNav .WizardButtonContainer .next {
 	content: "";
 	background-image:
-		url("/templates/shimatheme/images/media-images/next-button.png");
+		url("/templates/rijekafiume/images/media-images/next-button.png");
 	position: absolute;	
 	height: 91px;
 	right: -85px;
@@ -70,7 +70,7 @@ ul {
 .EmapNav .WizardButtonContainer .back {
 	content: "";
 	background-image:
-		url("/templates/shimatheme/images/media-images/back-button.png");
+		url("/templates/rijekafiume/images/media-images/back-button.png");
 	position: absolute;
 	height:91px;
 	left: -85px;
@@ -119,7 +119,7 @@ ul {
 
 .infowindow_title {
 	background-image:
-		url("http://ict4ag.geolive.ca/templates/shimatheme/images/GEOLiveSmallCopy.png");
+		url("http://ict4ag.geolive.ca/templates/rijekafiume/images/GEOLiveSmallCopy.png");
 	background-repeat: no-repeat;
 	margin-right: 12px;
 	padding-left: 39px;
@@ -142,7 +142,7 @@ ul {
 /* post box media buttons ================================== */
 .post-box .PopupTab span.noIcon.audio {
 	background-image:
-		url("/templates/shimatheme/images/media-images/media-music.png");
+		url("/templates/rijekafiume/images/media-images/media-music.png");
 	background-size: 32px auto;
 }
 
@@ -152,13 +152,13 @@ ul {
 
 .post-box .PopupTab span.noIcon.image {
 	background-image:
-		url("/templates/shimatheme/images/media-images/media-image.png");
+		url("/templates/rijekafiume/images/media-images/media-image.png");
 	background-size: 32px auto;
 }
 
 .post-box .PopupTab span.noIcon.video {
 	background-image:
-		url("/templates/shimatheme/images/media-images/media-video.png");
+		url("/templates/rijekafiume/images/media-images/media-video.png");
 	background-size: 32px auto;
 }
 
@@ -224,7 +224,7 @@ span.t-btn.post {
 
 .media .PopupTab span.noIcon.audio {
 	background-image:
-		url("/templates/shimatheme/images/media-images/media-music.png");
+		url("/templates/rijekafiume/images/media-images/media-music.png");
 	background-size: 70px auto;
 }
 
@@ -234,31 +234,31 @@ span.t-btn.post {
 
 .media .PopupTab span.noIcon.image {
 	background-image:
-		url("/templates/shimatheme/images/media-images/media-image.png");
+		url("/templates/rijekafiume/images/media-images/media-image.png");
 	background-size: 70px auto;
 }
 
 .media .PopupTab span.noIcon.video {
 	background-image:
-		url("/templates/shimatheme/images/media-images/media-video.png");
+		url("/templates/rijekafiume/images/media-images/media-video.png");
 	background-size: 70px auto;
 }
 
 .media .PopupTab span.noIcon.audio:hover {
 	background-image:
-		url("/templates/shimatheme/images/media-images/media-audio-black.png");
+		url("/templates/rijekafiume/images/media-images/media-audio-black.png");
 	background-size: 70px auto;
 }
 
 .media .PopupTab span.noIcon.image:hover {
 	background-image:
-		url("/templates/shimatheme/images/media-images/media-image-black.png");
+		url("/templates/rijekafiume/images/media-images/media-image-black.png");
 	background-size: 70px auto;
 }
 
 .media .PopupTab span.noIcon.video:hover {
 	background-image:
-		url("/templates/shimatheme/images/media-images/media-video-black.png");
+		url("/templates/rijekafiume/images/media-images/media-video-black.png");
 	background-size: 70px auto;
 }
 

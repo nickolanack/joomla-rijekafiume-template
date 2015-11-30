@@ -58,7 +58,7 @@ JHTML::_('jquery.framework');
 
 <meta http-equiv="cleartype" content="on">
 
-<link rel="shortcut icon" href="/templates/shimatheme/favicon.ico">
+<link rel="shortcut icon" href="/templates/rijekafiume/favicon.ico">
 
 <!-- Responsive and mobile friendly stuff -->
 <meta name="HandheldFriendly" content="True">
@@ -68,24 +68,24 @@ JHTML::_('jquery.framework');
 <jdoc:include type="head" />
 
 <!--  Stylesheets -->
-<link rel="stylesheet" href="/templates/shimatheme/css/html5reset.css" media="all" />
+<link rel="stylesheet" href="/templates/rijekafiume/css/html5reset.css" media="all" />
 <link rel="stylesheet" href="<?php echo $this->baseurl ?>/templates/system/css/system.css" type="text/css" />
 <link rel="stylesheet" href="<?php echo $this->baseurl ?>/templates/system/css/general.css" type="text/css" />
 <link rel="stylesheet" href="<?php echo $this->baseurl ?>/templates/<?php echo $this -> template; ?>/css/template.css" type="text/css" />
-<link rel="stylesheet" href="/templates/shimatheme/css/responsivegridsystem.css" media="all" />
-<link rel="stylesheet" href="/templates/shimatheme/css/col.css" media="all" />
-<link rel="stylesheet" href="/templates/shimatheme/css/2cols.css" media="all" />
-<link rel="stylesheet" href="/templates/shimatheme/css/3cols.css" media="all" />
-<link rel="stylesheet" href="/templates/shimatheme/css/4cols.css" media="all" />
+<link rel="stylesheet" href="/templates/rijekafiume/css/responsivegridsystem.css" media="all" />
+<link rel="stylesheet" href="/templates/rijekafiume/css/col.css" media="all" />
+<link rel="stylesheet" href="/templates/rijekafiume/css/2cols.css" media="all" />
+<link rel="stylesheet" href="/templates/rijekafiume/css/3cols.css" media="all" />
+<link rel="stylesheet" href="/templates/rijekafiume/css/4cols.css" media="all" />
 
 <!-- Responsive Stylesheets -->
-<link rel="stylesheet" media="only screen and (max-width: 1024px) and (min-width: 769px)" href="/templates/shimatheme/css/1024.css" />
-<link rel="stylesheet" media="only screen and (max-width: 768px) and (min-width: 481px)" href="/templates/shimatheme/css/768.css" />
-<link rel="stylesheet" media="only screen and (max-width: 480px)" href="/templates/shimatheme/css/480.css" />
+<link rel="stylesheet" media="only screen and (max-width: 1024px) and (min-width: 769px)" href="/templates/rijekafiume/css/1024.css" />
+<link rel="stylesheet" media="only screen and (max-width: 768px) and (min-width: 481px)" href="/templates/rijekafiume/css/768.css" />
+<link rel="stylesheet" media="only screen and (max-width: 480px)" href="/templates/rijekafiume/css/480.css" />
 
 <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements and feature detects -->
-<script src="/templates/shimatheme/js/modernizr-2.5.3-min.js"></script>
-<script src="/templates/shimatheme/js/map-height.js"></script>
+<script src="/templates/rijekafiume/js/modernizr-2.5.3-min.js"></script>
+<script src="/templates/rijekafiume/js/map-height.js"></script>
 
 <?php 
 $component=JRequest::getVar('option','');
@@ -114,7 +114,7 @@ if(file_exists((dirname(__FILE__)).DS.'css'.DS.$component.'.css')){
 		<div id="headcontainer">
 			<header class="group"> 
 			<div id="toplogo">
-			<img class="toplogo" src="/templates/shimatheme/images/rijeka-logo-grey.png" alt="rijeka logo" title="rijeka logo" />
+			<img class="toplogo" src="/templates/rijekafiume/images/rijeka-logo-grey.png" alt="rijeka logo" title="rijeka logo" />
 			</div>
 			<nav>
 			<ul id="menu">
@@ -160,7 +160,7 @@ if(file_exists((dirname(__FILE__)).DS.'css'.DS.$component.'.css')){
 								<hr>
 								<table>
 									<tr>
-										<td><img src="templates/shimatheme/images/user.png" alt="User"
+										<td><img src="templates/rijekafiume/images/user.png" alt="User"
 											title="User" width="30" class="userimage" /></td>
 										<td><jdoc:include type="modules" name="register" /></td>
 									</tr>
@@ -180,7 +180,7 @@ if(file_exists((dirname(__FILE__)).DS.'css'.DS.$component.'.css')){
 								<table>
 									<tr>
 										<td><a href="component/hs_users/?view=registration"><img
-												src="templates/shimatheme/images/registerUser.png"
+												src="templates/rijekafiume/images/registerUser.png"
 												alt="Register" title="Register" width="30"
 												class="registerimage" /> </a></td>
 										<td><p class="loginRegisterText">
@@ -241,6 +241,6 @@ if(file_exists((dirname(__FILE__)).DS.'css'.DS.$component.'.css')){
 <![endif]-->
 
 	<!-- More Scripts-->
-	<script src="/templates/shimatheme/js/responsivegridsystem.js"></script>
+	<script src="/templates/rijekafiume/js/responsivegridsystem.js"></script>
 </body>
 </html>
