@@ -378,7 +378,7 @@ input:invalid,textarea:invalid {
 #headcontainer {
 	background: none repeat scroll 0 0 #8DC6E6;
 	border-bottom: 1px solid #638BA1;
-	position: fixed;
+
 	top: 0;
 	width: 100%;
 	z-index: 1000;

@@ -149,7 +149,7 @@ if(file_exists((dirname(__FILE__)).DS.'css'.DS.$component.'.css')){
 
 					<div id="loginWidth">
 						<?php if(JFactory::getUser()->guest){?>
-						<div id="loginPopContent">
+						<div id="loginPopContent" style="z-index:999;">
 							<div class="slidedown">
 								<table>
 									<tr>
