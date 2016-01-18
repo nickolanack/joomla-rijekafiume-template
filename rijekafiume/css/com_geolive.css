@@ -98,9 +98,6 @@ ul {
 	display: none;
 }
 
-.TagCloudSelection {
-	margin-top: 25px;
-}
 
 /*general map styling ==================================== */
 .AttributesContainer .TextAttribute_Title {
@@ -142,79 +139,7 @@ ul {
 	padding-right: 5px;
 }
 /* post box media buttons ================================== */
-.post-box .PopupTab span.noIcon.audio {
-	background-image:
-		url("/templates/rijekafiume/images/media-images/media-music.png");
-	background-size: 32px auto;
-}
 
-.post-box .PopupTab span.noIcon.document {
-	display: none;
-}
-
-.post-box .PopupTab span.noIcon.image {
-	background-image:
-		url("/templates/rijekafiume/images/media-images/media-image.png");
-	background-size: 32px auto;
-}
-
-.post-box .PopupTab span.noIcon.video {
-	background-image:
-		url("/templates/rijekafiume/images/media-images/media-video.png");
-	background-size: 32px auto;
-}
-
-
-.post-box .PopupTab img,div.PopupTab .noIcon {
-	border: none;
-}
-
-.post-box .PopupTab {
-	bottom: 0;
-	height: 95px;
-	position: absolute;
-}
-
-.post-box .AdvancedEditorContainer {
-	position: relative;
-	padding-bottom: 38px;
-}
-
-.post-box .PopupTab span.noIcon {
-	height: 32px;
-	width: 32px;
-}
-
-.post-box .PopupTab .tabs_container {
-	width: 200px;
-}
-
-.post-box .PopupTab .tabs {
-	width: 200px
-}
-
-.post-box .ToolbarBottom {
-	margin-top: 40px;
-	display: block;
-}
-
-.post-box .WizardButton {
-	background-color: #777777;
-	border: 1px solid black;
-	border-radius: 2px 2px 2px 2px;
-	cursor: pointer;
-	float: right;
-	list-style: none outside none;
-	margin-left: 2px;
-	overflow: hidden;
-	padding-bottom: 0;
-	padding-left: 0;
-	padding-top: 0;
-}
-
-span.t-btn.post {
-	background-color: white;
-}
 
 
 /*General Marker wizard styling ================================= */
