@@ -48,14 +48,6 @@ JHTML::_('jquery.framework');
 <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-<title>Rijeka Fiume</title>
-<meta name="description"
-	content="A GeoLive site mapping the history of Rijeka.">
-<meta name="keywords"
-	content="geolive, geolive mapping, rijeka, fiume">
-
-<meta name="author" content="www.geolive.ca">
-
 <meta http-equiv="cleartype" content="on">
 
 <link rel="shortcut icon" href="/templates/rijekafiume/favicon.ico">
