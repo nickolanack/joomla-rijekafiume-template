@@ -70,10 +70,12 @@ JHTML::_('jquery.framework');
 <link rel="stylesheet" href="/templates/rijekafiume/css/3cols.css" media="all" />
 <link rel="stylesheet" href="/templates/rijekafiume/css/4cols.css" media="all" />
 
+
 <!-- Responsive Stylesheets -->
 <link rel="stylesheet" media="only screen and (max-width: 1024px) and (min-width: 769px)" href="/templates/rijekafiume/css/1024.css" />
 <link rel="stylesheet" media="only screen and (max-width: 768px) and (min-width: 481px)" href="/templates/rijekafiume/css/768.css" />
 <link rel="stylesheet" media="only screen and (max-width: 480px)" href="/templates/rijekafiume/css/480.css" />
+
 
 <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements and feature detects -->
 <script src="/templates/rijekafiume/js/modernizr-2.5.3-min.js"></script>
